@@ -106,14 +106,4 @@ Built serverless on AWS with SAM:
 | Backend | AWS SAM, Lambda, API Gateway, Cognito, DynamoDB, SQS, S3, CloudFront, KMS, Stripe |
 | Testing | pytest |
 
-## About me
-
-I'm Jacob Rosen. I studied Linguistics (Speech and Language Technology) at UC Santa Barbara and I'm working on an M.S. in Data Science at UT Austin. EZConversation is where those two fields meet.
-
-- LinkedIn: [jacob-rosen-a96b47291](https://www.linkedin.com/in/jacob-rosen-a96b47291)
-- Email: jacob@rosen4.com
-- More projects: [github.com/jr31415](https://github.com/jr31415)
-
-Happy to walk through the code in an interview.
-
 *EZConversation is a communication tool, not a medical device. It works best alongside guidance from a speech-language pathologist.*
