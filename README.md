@@ -27,7 +27,7 @@ Many AAC users spend a conversation digging through menus for the right word whi
 | leg · hurt | "my leg hurts" |
 | where · he · go | "where does he go" |
 
-The engine adds the small words (*a, the, to, and*), fixes verb endings, handles past and future, builds questions and negatives, and works out *I / me / my*, so nobody has to learn them first. Every word it adds appears as a grey chip that can be turned off with a tap. In the screenshot below, the user tapped *Sonja · is · go · home · with · me*, and the app added *going to*.
+The engine adds the small words (*a, the, to, and*), fixes verb endings, handles past and future, builds questions and negatives, and works out *I / me / my*, so nobody has to learn them first. Every word it adds appears as a grey chip that can be turned off with a tap. In the screenshot below, the user tapped *Sonja · go · go · home · with · me*, and the app modified the sentnece to have *going to*.
 
 <p align="center">
   <img src="screenshots/core-words.png" width="49%" alt="The core-word grid with the sentence 'Sonja is going to go home with me', where 'going to' was added by the grammar engine">
